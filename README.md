@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Safvan CK</h1>
 <h3 align="center">🚀 Full Stack Developer | 🧠 GenAI & RAG Enthusiast | 🛠️ System Builder</h3>
 
 <p align="center">
